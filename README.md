@@ -1,2 +1,2 @@
-# prepcourse-henrymgo
-repositorio de prueba para curso henry
+# pude hacer el repositorio para curso henry
+pude entrar a modificarlo desde mi pc sin problema
